@@ -21,8 +21,6 @@
 
 </div>
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📌 Topics Covered
@@ -39,9 +37,7 @@
 ![Pointers](https://img.shields.io/badge/Pointers_(Basic)-6e1a1a?style=for-the-badge)
 ![Patterns](https://img.shields.io/badge/Pattern_Problems-1a6e4a?style=for-the-badge)
 
-<br clear="right"/>
-
----
+<br clear="right"/>-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -54,8 +50,6 @@
 | Build rock-solid programming basics in C | Sharpen logic through patterns & problem solving | Prepare for coding rounds with structured practice |
 
 </div>
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -94,8 +88,6 @@
 
 > 💡 Each file represents a **specific concept or problem**, written in a simple and beginner-friendly manner.
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📚 Learning Approach
@@ -110,8 +102,6 @@
 | 🧱 **Concept-First Structure** | Topics build on each other from ground up |
 
 </div>
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -137,8 +127,6 @@ gcc 01_Basics/variables_datatypes.c -o output
 ./output
 ```
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 About This Journey
@@ -151,8 +139,6 @@ This repository reflects my **learning journey in C programming** — from absol
 
 </div>
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤝 Connect With Me
@@ -164,8 +150,6 @@ This repository reflects my **learning journey in C programming** — from absol
 [![Email](https://img.shields.io/badge/Email-aryansharma7341.as@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryansharma7341.as@gmail.com)
 
 </div>
-
----
 
 <div align="center">
 
